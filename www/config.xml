@@ -6,7 +6,7 @@
         id        = "com.didin.Super2048"
         version   = "1.0.0">
 
-    <name>2048</name>
+    <name>Super 2048</name>
 
     <description>
         2048 Puzzle Game.
